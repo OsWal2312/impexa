@@ -1,0 +1,61 @@
+body{
+    background-image: url("https://abriendomercados.com/wp-content/uploads/2023/08/aduana-y-comercio-exterior.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-weight: bold;
+    font-family: "Segoe Print",sans-serif ;
+    background-color: #0804e0;
+}
+
+h1{
+    color: red;
+    font-family: "algerian" , sans-serif;
+    
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 17px;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgba(223, 11, 11, 0.89);
+}
+
+.contenedor{
+    background-color: rgba(31, 75, 221, 0.705);
+    padding: 25px;
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 40px ;
+    font-family: "Sylfaen", sans-serif ;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: white;
+}
